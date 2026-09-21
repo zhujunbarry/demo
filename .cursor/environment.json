@@ -1,0 +1,5 @@
+{
+  "name": "demo C toolchain",
+  "user": "ubuntu",
+  "install": "sudo apt-get update && sudo apt-get install -y --no-install-recommends gdb cppcheck valgrind clang-format clang-tidy"
+}
